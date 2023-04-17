@@ -1,6 +1,12 @@
 # Created by https://www.toptal.com/developers/gitignore/api/pycharm,python,windows,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=pycharm,python,windows,jupyternotebooks
 
+### etc
+.idea/
+DeepLearning2020/
+tf2-master/
+
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
